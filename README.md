@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aicse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m vijayakumar
+- 👀 I’m interested in Machine learning & Deep learning
+- 🌱 I’m currently learning  data scientist
+- 💞️ I’m looking to collaborate on working together
 - 📫 How to reach just ping me in vijaysmart797@gmail.com 
 
 <!---
